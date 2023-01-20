@@ -1,0 +1,14 @@
+#text {
+    font-family: Arial, Helvetica, sans-serif;
+    word-break: break-all;
+}
+
+#head {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#block {
+    background-color: #dae5f7; 
+    padding: 30px;
+    border: 1px dotted grey;
+}
