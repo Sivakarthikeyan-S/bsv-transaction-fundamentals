@@ -14,8 +14,8 @@ const utxo = new bsv.Transaction.UnspentOutput({
 
 const transaction = new bsv.Transaction()
     .from(utxo)
-    .to('1BoUFgA8ZnSFxARg9BgrXgmtZLj2ssrYuw', 1000)
-    .change('1BoUFgA8ZnSFxARg9BgrXgmtZLj2ssrYuw')
+    .to('1NMZn3eedN1VPWemWcfVmh4NZASc2tMY3q', 1000)
+    .change('1NMZn3eedN1VPWemWcfVmh4NZASc2tMY3q')
     .sign(privateKey)
     
 var p = document.querySelector("#text");
