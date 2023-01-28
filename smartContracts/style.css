@@ -1,0 +1,37 @@
+#res {
+    font-family: Arial, Helvetica, sans-serif;
+    word-break: break-all;
+}
+
+#res1 {
+    font-family: Arial, Helvetica, sans-serif;
+    word-break: break-all;
+}
+
+#res2 {
+    font-family: Arial, Helvetica, sans-serif;
+    word-break: break-all;
+}
+
+#res3 {
+    font-family: Arial, Helvetica, sans-serif;
+    word-break: break-all;
+}
+
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#block {
+    background-color: #dae5f7; 
+    padding: 30px;
+    border: 1px dotted grey;
+    margin-bottom: 10px;
+}
+
+#block2 {
+    background-color: #dae5f7; 
+    padding: 30px;
+    border: 1px dotted grey;
+    margin-bottom: 10px;
+}
