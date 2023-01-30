@@ -8,7 +8,7 @@ var privateKey = privateKeyStandard.privateKey;
     
 var config = {
   safe: true,
-  data: ["0x6d02", "hello world"],
+  data: ["TransactionBuild", "metashard"],
   pay: {
     key: privateKey,
     rpc: "https://api.mattercloud.net",
